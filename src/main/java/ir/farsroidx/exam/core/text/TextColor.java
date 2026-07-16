@@ -1,4 +1,4 @@
-package ir.farsroidx.exam;
+package ir.farsroidx.exam.core.text;
 
 public enum TextColor {
 

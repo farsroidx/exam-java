@@ -1,9 +1,9 @@
-package ir.farsroidx;
+package ir.farsroidx.exam;
 
-import ir.farsroidx.exam.Menu;
-import ir.farsroidx.exam.models.MenuModel;
+import ir.farsroidx.exam.core.Menu;
+import ir.farsroidx.exam.core.models.MenuModel;
 
-import static ir.farsroidx.exam.Utils.*;
+import static ir.farsroidx.exam.core.Utils.*;
 
 public final class MainRunner {
 

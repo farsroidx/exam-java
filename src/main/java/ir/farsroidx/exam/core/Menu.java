@@ -1,10 +1,12 @@
-package ir.farsroidx.exam;
+package ir.farsroidx.exam.core;
 
-import ir.farsroidx.exam.models.MenuModel;
+import ir.farsroidx.exam.core.models.MenuModel;
+import ir.farsroidx.exam.core.text.TextColor;
+import ir.farsroidx.exam.core.text.TextStyle;
 
 import java.util.List;
 
-import static ir.farsroidx.exam.Utils.*;
+import static ir.farsroidx.exam.core.Utils.*;
 
 @SuppressWarnings("ALL")
 public final class Menu {

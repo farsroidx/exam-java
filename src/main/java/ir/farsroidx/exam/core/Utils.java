@@ -1,9 +1,11 @@
-package ir.farsroidx.exam;
+package ir.farsroidx.exam.core;
 
-import ir.farsroidx.exam.actions.Action;
-import ir.farsroidx.exam.actions.MenuAction;
-import ir.farsroidx.exam.actions.VoidAction;
-import ir.farsroidx.exam.exceptions.ForceCloseException;
+import ir.farsroidx.exam.core.actions.Action;
+import ir.farsroidx.exam.core.actions.MenuAction;
+import ir.farsroidx.exam.core.actions.VoidAction;
+import ir.farsroidx.exam.core.exceptions.ForceCloseException;
+import ir.farsroidx.exam.core.text.TextColor;
+import ir.farsroidx.exam.core.text.TextStyle;
 
 import java.util.Objects;
 import java.util.Scanner;

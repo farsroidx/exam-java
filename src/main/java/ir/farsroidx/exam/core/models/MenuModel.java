@@ -1,4 +1,4 @@
-package ir.farsroidx.exam.models;
+package ir.farsroidx.exam.core.models;
 
 @SuppressWarnings("ALL")
 public final class MenuModel {
